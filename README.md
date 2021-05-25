@@ -35,8 +35,8 @@ The main findings of the code you can find in [here](https://matsuch.medium.com/
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-[scikit-learn - Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
-[scikit-learn - Ada Boost Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
-[Complete Machine Learning Guide](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
+- [scikit-learn - Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+- [scikit-learn - Ada Boost Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
+- [Complete Machine Learning Guide](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
 
 Must give credit to Starbucks for the data and Udacity for the training! Otherwise, feel free to use the code here as you would like! 
