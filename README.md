@@ -21,9 +21,9 @@ The code should run with no issues using Python versions 3 with the following li
 ## File Descriptions <a name="files"></a>
 
 - **Data**
-  - portfolio.csv - *containing offer ids and meta data about each offer (duration, type, etc.)*
-  - profile.csv - *demographic data for each customer*
-  - transcript.csv - *records for transactions, offers received, offers viewed, and offers completed*
+  - portfolio.json - *containing offer ids and meta data about each offer (duration, type, etc.)*
+  - profile.json - *demographic data for each customer*
+  - transcript.json - *records for transactions, offers received, offers viewed, and offers completed*
 - **Code**
   - Starbucks_Capstone_notebook.ipynb - *code that runs all the analysis*
 
