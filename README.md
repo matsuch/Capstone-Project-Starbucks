@@ -38,5 +38,7 @@ The main findings of the code you can find in [here](https://matsuch.medium.com/
 - [scikit-learn - Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 - [scikit-learn - Ada Boost Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html)
 - [Complete Machine Learning Guide](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
+- [What makes a good F1-Score](https://inside.getyourguide.com/blog/2020/9/30/what-makes-a-good-f1-score)
+- [Gradient Boosting with Scikit-Learn, XGBoost, LightGBM, and CatBoost](https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/)
 
 Must give credit to Starbucks for the data and Udacity for the training! Otherwise, feel free to use the code here as you would like! 
